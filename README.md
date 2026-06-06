@@ -1,2 +1,3 @@
-# buginsight-benchmark
-Benchmark suite for BugInsight vulnerabilities.
+# BugInsight Benchmark Suite
+
+A suite of vulnerable and safe files for evaluating BugInsight.
